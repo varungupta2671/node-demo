@@ -1,0 +1,12 @@
+{
+	"host": "localhost",
+	"port": "8003",
+	"mongoDb": {
+		"URI" : "mongodb://altasknodeuser:adUkxsdevaprabhuFGF6jda@127.0.0.1/altaskdb"
+	}
+		
+}
+
+
+
+	
